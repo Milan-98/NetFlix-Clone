@@ -84,6 +84,7 @@ Here are some screenshots of the Netflix clone:
 ![GETFLIX (6)](https://user-images.githubusercontent.com/114464208/235608569-f2c821b6-4e67-4ec3-8def-f0fc667be59c.png)
 ![GETFLIX (7)](https://user-images.githubusercontent.com/114464208/235608547-373f904b-3ae0-4b37-bada-15d089eb16d9.png)
 ![GETFLIX (8)](https://user-images.githubusercontent.com/114464208/235609074-31cbd3e4-4f9c-4ee0-acca-b0481e5110a3.png)
+![GETFLIX (9)](https://user-images.githubusercontent.com/114464208/235609453-3692df29-5c03-496e-a87d-f0eb18c1fd1f.png)
 
 ## Project Description
 
