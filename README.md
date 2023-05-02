@@ -2,6 +2,19 @@
 
 This is a clone of the Netflix website built using React, React Router, Redux, Axios, movie-trailer, react-loading-skeleton, react-youtube, and Tailwind CSS. The website has a responsive design and features a landing page, a page for browsing movies and TV shows, and a detail page for each movie or TV show.
 
+## Table of Contents
+
+- [Installation](#installation)
+- [Clone](#clone)
+- [Usage](#usage)
+- [Features](#features)
+- [Demo Link](#demo-link)
+- [Screenshots](#screenshots)
+- [Project Description](#project-description)
+- [Contributing](#contributing)
+- [License](#license)
+
+
 ## Installation
 
 To use this application, you need to have Node.js and npm installed on your machine. Once you have these installed, you can follow these steps:
@@ -77,3 +90,11 @@ Here are some screenshots of the Netflix clone:
 The Netflix clone was built as a personal project to practice my React skills and explore various React-related packages and technologies. The project includes several components, such as the Navbar, Banner, Row, and MovieCard components, and uses Redux for state management.
 
 The Navbar component is responsible for displaying the navigation bar at the top of the page. The navigation bar includes links to the landing page, browsing page, and the user's watchlist.
+
+## Contributing
+
+If you'd like to contribute to this project, feel free to submit a pull request. Any contributions are greatly appreciated!
+
+## License
+
+This project is licensed under the MIT License.
