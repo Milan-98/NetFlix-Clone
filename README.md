@@ -73,7 +73,7 @@ Please note that the Netflix clone does not include any actual movies or TV show
 
 ## Demo Link
 
-Check out the live demo of the Netflix clone [here](https://your-demo-link.com).
+Check out the live demo of the Netflix clone [here](https://getflix-originals.netlify.app/).
 
 ## Screenshots
 
