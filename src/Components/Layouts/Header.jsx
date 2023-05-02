@@ -19,7 +19,7 @@ const Header = () => {
   }, []);
 
   const userImage = useSelector((state) => {
-    return state.ProfileData.substring(12, 17);
+    return state.ProfileData;
   });
   const listenScrollEvent = (event) => {
     if (window.scrollY > 7) {
@@ -61,7 +61,7 @@ const Header = () => {
       <Link to="/profile" className="md:mr-12">
         <img
           className="w-7 rounded-sm md:w-9 "
-          src={`${eval(userImage)}`}
+          src={ eval(userImage) }
           alt="User Image"
         />
       </Link>

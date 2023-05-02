@@ -41,7 +41,7 @@ const Intro = () => {
         Who's Watching?
       </p>
       <ul className="md:grid-row-1 ml-7 grid h-fit grid-cols-2 gap-3    md:mx-auto  md:ml-48 md:w-fit md:grid-flow-col  md:gap-6">
-        {imageArray.map((i) => {
+        {imageArray.map((i,j) => {
           return (
             <li
               key={i.substring(12, 17)}
@@ -55,16 +55,13 @@ const Intro = () => {
                       selected ? " " : (e.target.style.borderWidth = "3px");
                     }
                     setSelected(true);
-                    SetUserProfile(e.target.getAttribute("src"));
+                    SetUserProfile(`User${j+1}`);
                   }}
                   className="w-24 rounded-sm md:w-32 md:hover:border-4"
                   src={i}
                   alt="user image"
                 />{" "}
               </Link>
-              <p className="mr-5 mt-1 text-center text-white md:mr-0 md:text-lg md:font-semibold">
-                {i.substring(12, 17)}
-              </p>
             </li>
           );
         })}

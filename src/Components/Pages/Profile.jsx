@@ -26,12 +26,11 @@ const Profile = () => {
     setTimeout(() => {
       setDisplay(false);
     }, 1000);
-
   return (
     <div className="h-[90vh] text-white">
       <div className="flex items-center justify-center px-10">
         <ul className="mt-5 flex h-fit w-[60vw]  flex-wrap md:mt-20">
-          {imageArray.map((i) => {
+          {imageArray.map((i,j) => {
             return (
               <li key={i.substring(12, 17)} className="mb-2 mr-5 text-xs">
                 <Link to="/home">
@@ -42,16 +41,14 @@ const Profile = () => {
                         selected ? " " : (e.target.style.borderWidth = "3px");
                       }
                       setSelected(true);
-                      SetUserProfile(e.target.getAttribute("src"));
+                      SetUserProfile(`User${j+1}`);
                     }}
                     className="w-12 rounded-sm md:w-28 md:hover:border-4"
                     src={i}
                     alt="user image"
                   />{" "}
                 </Link>
-                <p className="mt-1 text-center font-extralight text-white md:text-base md:font-semibold">
-                  {i.substring(12, 17)}
-                </p>
+              
               </li>
             );
           })}
