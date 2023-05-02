@@ -78,12 +78,13 @@ Check out the live demo of the Netflix clone [here](https://getflix-originals.ne
 ## Screenshots
 
 Here are some screenshots of the Netflix clone:
+![GETFLIX](https://user-images.githubusercontent.com/114464208/235608449-094e1d4c-c168-4855-8181-5b2f482538ea.png)
+![GETFLIX (3)](https://user-images.githubusercontent.com/114464208/235608502-58a7d8f3-e558-46ae-9caf-25c6cdc5fc23.png)
 
-![Screenshot of landing page](/screenshots/landing-page.png)
-*Screenshot of the landing page*
+![GETFLIX (4)](https://user-images.githubusercontent.com/114464208/235608523-65f07bab-3cb4-4b62-ab73-975b7fd224c2.png)
+![GETFLIX (6)](https://user-images.githubusercontent.com/114464208/235608569-f2c821b6-4e67-4ec3-8def-f0fc667be59c.png)
 
-![Screenshot of detail page](/screenshots/detail-page.png)
-*Screenshot of the detail page*
+![GETFLIX (7)](https://user-images.githubusercontent.com/114464208/235608547-373f904b-3ae0-4b37-bada-15d089eb16d9.png)
 
 ## Project Description
 
