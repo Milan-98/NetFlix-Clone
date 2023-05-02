@@ -18,3 +18,62 @@ Alternatively, you can clone this repository using the following command:
 ```
 git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
 ```
+
+
+## Usage
+
+To use the Netflix clone, simply open the website in your browser and browse through the available movies and TV shows. Click on a movie or TV show to view its details, including a trailer (if available).
+
+## Features
+
+The Netflix clone has the following features:
+
+### Responsive Design
+
+The website is designed to be responsive on desktop and mobile devices. The website has been tested on various screen sizes and optimized to provide a seamless experience to users.
+
+### Browsing Page
+
+The website has a page for browsing movies and TV shows, where users can view posters and titles of the available titles. The browsing page also includes a search bar where users can search for movies or TV shows by title.
+
+### Detail Page
+
+The website has a detail page for each movie or TV show, where users can view a synopsis, the rating, and a trailer (if available). The detail page also includes a "Add to Watchlist" button that allows users to save the movie or TV show to their watchlist for future reference.
+
+### Trailer Integration
+
+The website integrates with the movie-trailer package to display trailers for each movie or TV show. Users can watch the trailer by clicking the "Play" button on the detail page.
+
+### Loading Placeholders
+
+The website uses the react-loading-skeleton package to display loading placeholders when data is being fetched. This helps to provide a better user experience by giving users a visual cue that content is being loaded.
+
+### YouTube Video Integration
+
+The website integrates with the react-youtube package to display YouTube videos for trailers. The package provides a simple and easy-to-use interface for embedding YouTube videos in the application.
+
+### Styling
+
+The website is styled using the Tailwind CSS framework. Tailwind provides a range of pre-built CSS classes that can be used to style components, making it easier and faster to style the application.
+
+Please note that the Netflix clone does not include any actual movies or TV shows, and is intended for demonstration purposes only.
+
+## Demo Link
+
+Check out the live demo of the Netflix clone [here](https://your-demo-link.com).
+
+## Screenshots
+
+Here are some screenshots of the Netflix clone:
+
+![Screenshot of landing page](/screenshots/landing-page.png)
+*Screenshot of the landing page*
+
+![Screenshot of detail page](/screenshots/detail-page.png)
+*Screenshot of the detail page*
+
+## Project Description
+
+The Netflix clone was built as a personal project to practice my React skills and explore various React-related packages and technologies. The project includes several components, such as the Navbar, Banner, Row, and MovieCard components, and uses Redux for state management.
+
+The Navbar component is responsible for displaying the navigation bar at the top of the page. The navigation bar includes links to the landing page, browsing page, and the user's watchlist.
