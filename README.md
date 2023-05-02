@@ -1,6 +1,6 @@
 # Netflix Clone
 
-This is a clone of the Netflix website built using React, React Router, Redux, Axios, movie-trailer, react-loading-skeleton, react-youtube, and Tailwind CSS. The website has a responsive design and features a landing page, a page for browsing movies and TV shows, and a detail page for each movie or TV show.
+This is a clone of the Netflix website built using React, React Router, Redux, Axios, movie-trailer, react-loading-skeleton, react-youtube, and Tailwind CSS. The website has a responsive design and features a landing page,a page for browsing movies and TV shows, and a detail page for each movie or TV show.
 
 ## Table of Contents
 
