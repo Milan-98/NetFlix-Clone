@@ -15,6 +15,6 @@ To use this application, you need to have Node.js and npm installed on your mach
 
 Alternatively, you can clone this repository using the following command:
 
-bash```
+```
 git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
 ```
