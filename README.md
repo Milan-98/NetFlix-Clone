@@ -92,6 +92,8 @@ The Netflix clone was built as a personal project to practice my React skills an
 
 The Navbar component is responsible for displaying the navigation bar at the top of the page. The navigation bar includes links to the landing page, browsing page, and the user's watchlist.
 
+date: 2 May 2023 141 day Of Webdev
+
 ## Contributing
 
 If you'd like to contribute to this project, feel free to submit a pull request. Any contributions are greatly appreciated!
