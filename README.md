@@ -33,7 +33,7 @@ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
 ```
 ## Demo Link
 
-Check out the live demo of the Netflix clone [here]([https://getflix-originals.netlify.app/](https://net-flix-clone-fawn.vercel.app/)).
+Check out the live demo of the Netflix clone [here](https://net-flix-clone-fawn.vercel.app/).
 
 ## Screenshots
 
